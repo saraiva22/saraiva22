@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Francisco Saraiva</h1>
 
-- 🔭 I’m currently working on **Multi Cloud Guardian**
+- 🔭 I’m currently working on my final year project, **Multi Cloud Guardian**
 
 - 💬 Ask me about **Kotlin, Mobile and Web devolopment**
 
