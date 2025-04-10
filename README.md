@@ -6,12 +6,6 @@
 
 - 💬 Ask me about **Kotlin, Mobile and Web devolopment**
 
-
-## 📱 Contact 
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-saraiva-507119236/](https://www.linkedin.com/in/francisco-saraiva-507119236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-saraiva-507119236/" height="30" width="40" /></a>
-</div>
-
 ## 🛠️ Tools
 
 <div align="center">
