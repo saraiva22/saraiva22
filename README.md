@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, I'm Francisco Saraiva</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Francisco Saraiva</h1>
+
+## 📌 About Me
 
 - 🔭 I’m currently working on my final year project, **Multi Cloud Guardian**
 
