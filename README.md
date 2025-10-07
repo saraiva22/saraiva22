@@ -2,7 +2,6 @@
 
 ## 📌 About Me
 
-- 🔭 I’m currently working on my final year project, **Multi Cloud Guardian**
 
 - 💬 Ask me about **Kotlin, Mobile and Web devolopment**
 
